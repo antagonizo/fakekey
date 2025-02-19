@@ -1,7 +1,7 @@
 import openai
 
 # OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 def generate_response(prompt):
     try:
